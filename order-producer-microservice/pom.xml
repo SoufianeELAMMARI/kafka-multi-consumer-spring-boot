@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.demo</groupId>
-    <artifactId>order-microservice</artifactId>
+    <artifactId>order-producer-microservice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>order-microservice</name>
     <description>order-microservice</description>
